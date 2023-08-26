@@ -1,0 +1,45 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Compiled Dynamic libs (Shared Objects)
+*.so.*
+
+# Compiled Executables
+*.exe
+*.out
+*.app
+
+# Directories
+build/
+bin/
+Debug/
+Release/
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+
+# Visual Studio Code (VSCode) settings
+.vscode/
+
+# Eclipse project settings
+.project
+.cproject
+
+# Xcode project settings
+*.xcodeproj/
+*.xcworkspace/
+
+# Temporary files
+*.swp
+*~
+
+# Generated files
+Makefile
+*.cmake
+
+build/
