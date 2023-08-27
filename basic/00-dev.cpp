@@ -1,11 +1,9 @@
 #include <iostream>
 #include <string>
 #include <array>
+#include "functions.h"
 
 using namespace std;
-
-// function prototype
-int sum(int a, int b);
 
 // public class with method
 class HelloWorld
@@ -20,7 +18,7 @@ public:
     }
 };
 
-int main()
+int main2()
 {
     // create class instance or object and do the method
     HelloWorld objek;
