@@ -43,3 +43,4 @@ Makefile
 *.cmake
 
 build/
+open-gl/*
