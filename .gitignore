@@ -44,3 +44,6 @@ Makefile
 
 build/
 open-gl/*
+
+playground.cpp
+playground
