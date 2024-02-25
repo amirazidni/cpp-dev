@@ -33,9 +33,7 @@ public:
             for (int j = 0; j < grid[0].size(); ++j)
             {
                 if (grid[i][j] == 1)
-                {
                     maxArea = max(maxArea, exploreIsland(grid, i, j));
-                }
             }
         }
 
